@@ -31,14 +31,14 @@ Entry-level data analyst with a strong work ethic and desire for outcomes who is
 * 
 ### ◎ My Experience 
 #### Cognizant 
-## Apprenticeship (Feb 2022- Oct 2022). Hyderabad, Telangana, India
+# Apprenticeship (Feb 2022- Oct 2022). Hyderabad, Telangana, India
 The Trainee Intern is a temporary position for students who are enrolled in a full-time undergraduate. I gained hands-on experience in a variety of technical areas, such as software development, Data Science and Data analyst.
    *I gained 90% of practical knowledge in SQL, Java and DBMS.
    * Participat in technical training and development programs.
    * Work on projects under supervision of mentor.
 
 #### National Instruments (NI) And Cognibot
-## Student Intern (Feb 2020- Oct 2020). Hyderabad, Telangana, India
+# Student Intern (Feb 2020- Oct 2020). Hyderabad, Telangana, India
 The student intern program at NI and Cognibot is a great way to gain valuable experience in the field of AI and machine learning. I had the opportunity to work on real-world projects, learnt from experienced engineers.
 *I gained 90% of practical knowledge in Python, AI and Machine Learning models.
 * Collaborate with experienced engineers and scientists to learn about latest AI mad machine Learning techniques.
