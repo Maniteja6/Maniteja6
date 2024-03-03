@@ -1,4 +1,4 @@
-# Hi, I'm Maniteja Reddy Julakanti 👋
+# Hello, I'm Maniteja Reddy Julakanti 👋
 Entry-level data analyst with a strong work ethic and desire for outcomes who is passionate about using data to solve challenging issues and spur company expansion. Proven ability to collect, clean, analyze, and visualize data using SQL, Python, and Tableau. Strong communication and presentation skills.
 
 <p align='center'>  
