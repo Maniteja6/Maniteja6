@@ -49,9 +49,3 @@ The student intern program at NI and Cognibot is a great way to gain valuable ex
 * Python for Data Science from IBM
 * Programming for Everybody from Coursera
 * Design Thinking for Innovation
-### Project
-#### Psychological Health Detection
-In final semester of my Bachelor Degree, we built a website that will detect mental health of person. We built this website using Html, CSS, Python and Machine learning model.To do this project we used dataset of comments from Twitter and Instagram.
-### Blood Group Detection
-In sixth semester of my Bachelor Degree, we developed a MatLab program that will identify the blood group of person by using blood drop which is faster the traditional process. We wrote thesis on this project and published in Journal of Chengdu University of Technology.
-
