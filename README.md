@@ -23,7 +23,7 @@ Entry-level data analyst with a strong work ethic and desire for outcomes who is
 
 
 ### 🛠 Technical Skills
-*   Python, Tableau, SQL, Data Visualization, Data Analysis, GCP, MS Excel, ML models
+*   Python, Tableau, SQL, Data Visualization, Data Analysis, Google Cloud Platform(Basics), MS Excel,ML models, AWS(Cloud Practitioner).
 *   Numpy, Pandas, Matplot, sklearn
   
 ###  Soft Skills
