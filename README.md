@@ -12,8 +12,8 @@ Entry-level data analyst with a strong work ethic and desire for outcomes who is
 ### 📖 Education
 
 #### University of North Texas, Denton, Texas
-- Master of Advanced Data Analytics - Ongoing - (2023 - *)
-- CGPA - 3.66
+- Master of Advanced Data Analytics - Ongoing - (2023 - 2025)
+- CGPA - 3.83
 - Relevant Coursework: Python, SQL, Tableau, Google Cloud Platform, Agile Frameworks, MS Excel, Machine Learnign Models.
 
 #### Vardhaman College of Engineering, Hyderabad, India
@@ -30,20 +30,23 @@ Entry-level data analyst with a strong work ethic and desire for outcomes who is
 * Communication, Problem Solving, Critical Thinking, Adaptability, Teamwork, Time Management.
 
 ### ◎ My Experience 
+#### Gilead Sciences
+#### Internship (June 2024 - Aug 2024). Raleigh, North Carolina, USA
+1. Standardized architecture patterns, enhancing team understanding and establishing a foundation for scalable cloud solutions, resulting in a 15% increase in project efficiency.
+2. Developed detailed architectural diagrams using Lucidchart and Draw.io to provide clear visual representations of 3 complex systems for stakeholders.
+3. Implemented best practices in cloud infrastructure design by deploying 3-Tier Web Applications using Terraform modules, resulting in a 10% improvement in deployment efficiency and a 5% reduction in infrastructure costs.
+4. Created reusable Terraform modules for AWS, streamlining infrastructure deployment and increasing efficiency by 15%.
 #### Cognizant 
 ##### Apprenticeship (Feb 2022- Oct 2022). Hyderabad, Telangana, India
-The Trainee Intern is a temporary position for students who are enrolled in a full-time undergraduate. I gained hands-on experience in a variety of technical areas, such as software development, Data Science and Data analyst.
-   *I gained 90% of practical knowledge in SQL, Java and DBMS.
-   * Participat in technical training and development programs.
-   * Work on projects under supervision of mentor.
-
+1. Actively participated in 2 team projects, fostering a cooperative learning environment by sharing insights and knowledge with 15 peers, promoting collective growth.
+2. Completed 90% of tasks on time, demonstrating strong time management skills and contributing to project milestones with measurable results.
+3. Collaborated on 2 team projects, enhancing collective learning, and achieved 80% of project milestones.
+4. Delivered actionable insights through data analysis, enhancing decision-making processes and increasing efficiency by 25%.
 #### National Instruments (NI) And Cognibot
 ##### Student Intern (Feb 2020- Oct 2020). Hyderabad, Telangana, India
-The student intern program at NI and Cognibot is a great way to gain valuable experience in the field of AI and machine learning. I had the opportunity to work on real-world projects, learnt from experienced engineers.
-*I gained 90% of practical knowledge in Python, AI and Machine Learning models.
-* Collaborate with experienced engineers and scientists to learn about latest AI mad machine Learning techniques.
-*  Work on projects related to development and deployment of AI-powered solutions.
-
+1. Developed and deployed AI-powered solutions using Python and 5 different ML models, enhancing engineering capabilities by 40% and driving a 25% increase in project success rates.
+2. Analyzed 10 complex data sets to optimize AI and ML models, creating robust and scalable solutions for various engineering challenges.
+3. Collaborated with cross-functional teams to integrate AI technologies into existing systems, fostering innovation and improving project efficiency by 30%.
 ### Certification
 * Introduction to Data Science from CISCO
 * Python for Data Science from IBM
